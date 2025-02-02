@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nexxusMostaFA
-- cs student at @ Cairo UV 
+- cs student @ Cairo UV 
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning data science & ai
 - 📫 How to reach me?  01019185390
