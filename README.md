@@ -2,9 +2,11 @@
 
 # MOSTAFA FAKHRY
 
+<img align="center" alt="Profile Picture" width="200" src="https://avatars.githubusercontent.com/nexxusMostaFA" style="border-radius: 50%; border: 4px solid #2E9EF7; box-shadow: 0 0 20px rgba(46, 158, 247, 0.5);">
+
 ### Computer Science Student | AI Engineer | Data Scientist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Data+Science+Innovator;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Data+Science+Innovator;AI+Solutions+Architect" alt="Typing SVG" />
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-t-fakhry-51b1a1261)
@@ -239,7 +241,7 @@ class MostafaFakhry:
 - PyTorch
 - Hugging Face Transformers
 
-**Status:** 🔄NLP , RNN , LSTM and GANs In Progress 
+**Status:** 🔄 NLP, RNN, LSTM and GANs In Progress 
 
 </details>
 
@@ -393,7 +395,7 @@ I'm always excited to discuss:
 
 **LinkedIn**
 
-[Mostafa Fakhry](https://www.linkedin.com/in/mostafa-fakhry-51b1a1261)
+[Mostafa Fakhry](https://www.linkedin.com/in/mostafa-t-fakhry-51b1a1261)
 
 </td>
 <td align="center" width="25%">
