@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Specialist;Data+Science+Innovator;AI+Solutions+Architect" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-fakhry-51b1a1261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mostafa-t-fakhry-51b1a1261)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mostafataha2127095)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NexxusMostafa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafatahafakhry01@gmail.com)
@@ -32,7 +32,7 @@ class MostafaFakhry:
         self.interests = ["Deep Learning", "Computer Vision", "NLP", "MLOps"]
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+        print("Thanks! Let's build something amazing together.")
         
     def current_projects(self):
         return [
@@ -56,7 +56,6 @@ class MostafaFakhry:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -132,7 +131,6 @@ class MostafaFakhry:
 
 **SQL**
 - Database Design and Normalization
-- CRUD Operations
 - Joins and Subqueries
 - Aggregate Functions and Window Functions
 
@@ -152,21 +150,17 @@ class MostafaFakhry:
 **Statistics & Probability**
 - Descriptive Statistics (Mean, Median, Mode, Variance, Standard Deviation)
 - Probability Distributions (Normal, Binomial, Poisson)
-- Hypothesis Testing (t-tests, chi-square tests)
 - Confidence Intervals
 - Correlation and Causation
-- A/B Testing
 
 **Feature Engineering**
 - Feature Scaling (Normalization, Standardization)
 - Encoding Categorical Variables (One-Hot, Label Encoding)
 - Feature Selection Techniques
-- Dimensionality Reduction (PCA, t-SNE)
 - Handling Imbalanced Data
 
 **Exploratory Data Analysis (EDA)**
 - Data Profiling
-- Univariate and Multivariate Analysis
 - Outlier Detection
 - Distribution Analysis
 - Correlation Analysis
@@ -196,26 +190,19 @@ class MostafaFakhry:
 
 **Unsupervised Learning**
 - K-Means Clustering
-- Hierarchical Clustering
-- DBSCAN
-- Principal Component Analysis (PCA)
-- Association Rule Learning
 
 **Model Evaluation**
 - Cross-Validation Techniques
 - Confusion Matrix, Precision, Recall, F1-Score
-- ROC Curve and AUC
 - Mean Squared Error, R-squared
-- Bias-Variance Tradeoff
 
 **Hyperparameter Tuning**
 - Grid Search
 - Random Search
-- Bayesian Optimization
 
 **Model Deployment**
 - Saving and Loading Models (Pickle, Joblib)
-- Building APIs with Flask
+- Building APIs with Flask and FastAPI
 - Model Serving
 
 **Status:** ✅ Completed | **Duration:** 5 months
@@ -246,32 +233,12 @@ class MostafaFakhry:
 - Object Detection (YOLO, R-CNN, Fast R-CNN, Faster R-CNN)
 - Image Segmentation (U-Net, Mask R-CNN)
 
-**Recurrent Neural Networks (RNN)**
-- LSTM (Long Short-Term Memory)
-- GRU (Gated Recurrent Units)
-- Sequence-to-Sequence Models
-- Time Series Forecasting
-
-**Natural Language Processing (NLP)**
-- Text Preprocessing (Tokenization, Stemming, Lemmatization)
-- Word Embeddings (Word2Vec, GloVe)
-- Transformer Architecture
-- BERT, GPT Models
-- Sentiment Analysis
-- Named Entity Recognition (NER)
-- Text Generation
-
-**Generative Models**
-- Autoencoders
-- Variational Autoencoders (VAE)
-- Generative Adversarial Networks (GANs)
-
 **Frameworks**
 - TensorFlow & Keras
 - PyTorch
 - Hugging Face Transformers
 
-**Status:** 🔄 In Progress | **Current Focus:** Advanced Computer Vision with YOLO
+**Status:** 🔄NLP , RNN , LSTM and GANs In Progress 
 
 </details>
 
@@ -354,7 +321,7 @@ Advanced computer vision system for real-time football match analysis using YOLO
 </div>
 
 ### Kaggle Profile
-Active participant in machine learning competitions with focus on:
+Active participant in machine learning focus on:
 - Computer Vision challenges
 - Tabular data competitions
 - Natural Language Processing tasks
@@ -444,19 +411,7 @@ I'm always excited to discuss:
 
 </div>
 
----
 
-## PHILOSOPHY
-
-> "The best way to predict the future is to invent it." - Alan Kay
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+algorithm+at+a+time;Transforming+data+into+insights;Creating+intelligent+solutions;Making+AI+accessible+to+everyone" alt="Philosophy" />
-</div>
-
-I believe in the transformative power of artificial intelligence to solve real-world problems. My approach combines rigorous technical expertise with creative problem-solving, always striving to build systems that are not just intelligent, but also ethical, scalable, and impactful.
-
----
 
 <div align="center">
 
