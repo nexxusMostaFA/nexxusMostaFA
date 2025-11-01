@@ -4,7 +4,7 @@
 
 ### Computer Science Student | AI Engineer | Data Scientist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Specialist;Data+Science+Innovator;AI+Solutions+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Data+Science+Innovator;" alt="Typing SVG" />
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-t-fakhry-51b1a1261)
