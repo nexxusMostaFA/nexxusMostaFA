@@ -2,7 +2,7 @@
 
 # MOSTAFA FAKHRY
 
-<img align="center" alt="Profile Picture" width="200" src="https://raw.githubusercontent.com/nexxusMostaFA/nexxusMostaFA/photo_2024-05-20_22-31-07.jpg"> style="border-radius: 50%; border: 4px solid #2E9EF7; box-shadow: 0 0 20px rgba(46, 158, 247, 0.5);">
+<img align="center" alt="Profile Picture" width="200" src="photo_2024-05-20_22-31-07.jpg"> style="border-radius: 50%; border: 4px solid #2E9EF7; box-shadow: 0 0 20px rgba(46, 158, 247, 0.5);">
 
 ### Computer Science Student | AI Engineer | Data Scientist
 
